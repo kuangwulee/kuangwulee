@@ -1,7 +1,7 @@
 - 👋 Hi, I’m jeff_lee
-- 👀 I’m interested in soft matter physics and CFD
-- 🌱 I’m currently learning openfoam
-- 💞️ I’m looking to collaborate on CFD on phase transition systems
+- 👀 I’m an engineer/physicst 
+- 🌱 I’m currently focus on Machine Learning and its applications on digital twins 
+- 💞️ I’m looking to explore the E-commence world.
 - 📫 How to reach me kuangwulee@gmail.com
 
 <!---
